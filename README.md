@@ -24,8 +24,8 @@
 ### 📈 Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveirajs&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirajs&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olveirajs&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=000" />
 </div>
 
 ---
