@@ -30,6 +30,15 @@ Today, I work as a **multidisciplinary developer**, bridging the precision of lo
 
 ---
 
+### 📈 Stats & Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=olveirajs&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_border=true" />
+</p>
+
+---
+
 ### 📫 Contact / Contato
 
 - **Email:** [oliveirarsdemail@gmail.com](mailto:oliveirarsdemail@gmail.com)
