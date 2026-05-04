@@ -8,8 +8,6 @@
 
 **EN:** Software developer focused on systems architecture and backend logic. Specialist in Pawn (SA-MP) and C++, with solid experience in modern web development. Committed to excellence through clean code and scalable solutions.
 
----
-
 ### 🛠 Tech Stack & Tools
 
 | Category | Technologies |
@@ -19,23 +17,10 @@
 | **Backend / Database** | `Node.js`, `MySQL`, `PostgreSQL` |
 | **Workflow** | `Git`, `Linux`, `Docker` |
 
----
-
-### 📈 Stats & Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olveirajs&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=000&bg_color=00000000" />
-</div>
-
----
-
 ### 📫 Contact / Contato
 
 - **Email:** oliveirarsdemail@gmail.com
 - **Discord:** `.olveirajs`
-
----
 
 <p align="center">
   <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
