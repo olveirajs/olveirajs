@@ -1,6 +1,6 @@
-# Cauã Oliveira | Software Engineer
+![Onda Branca Invertida](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header)
 
-![Banner](https://media.discordapp.net/attachments/1500872518372823122/1500915282460414142/bannerolver.png?ex=69fa2bc8&is=69f8da48&hm=1f2de37bd078ce002d35b892085102210f7470ef657979851fad4cf6218cbbbe&=&format=webp&quality=lossless&width=1540&height=514)
+# Cauã Oliveira | Software Engineer
 
 ## 🇧🇷 Sobre Mim
 Minha trajetória na tecnologia começou cedo: aos **11 anos** já explorava a lógica por trás de sistemas e jogos. O que nasceu como curiosidade se tornou uma carreira focada em construir arquiteturas sólidas e eficientes.
@@ -44,7 +44,7 @@ Today, I work as a **multidisciplinary developer**, bridging the precision of lo
 - **Email:** [oliveirarsdemail@gmail.com](mailto:oliveirarsdemail@gmail.com)
 - **Discord:** `.olveirajs`
 
----
+![Onda Branca](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer)
 
 <p align="center">
   <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
