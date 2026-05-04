@@ -1,4 +1,4 @@
-![Onda Branca Invertida](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header)
+![Onda OlverJS](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header&text=OlverJS&fontSize=50&fontColor=000000)
 
 # Cauã Oliveira | Software Engineer
 
@@ -20,15 +20,15 @@ Today, I work as a **multidisciplinary developer**, bridging the precision of lo
 - 🎯 **Specialty:** Game Logic, System Optimization, and Web Architecture.
 - 🚀 **Experience:** Over a decade of hands-on experience in programming logic.
 
----
+### 🛠 Tecnologias e Linguagens
 
-### 🛠 Specialized Stack
-
-* **Systems & Game Logic:** Especialista em desenvolvimento de gamemodes e sistemas de alta complexidade utilizando `Pawn`, `C++` e `Lua`.
-* **Web & Apps Ecosystem:** Construção de interfaces e aplicações robustas utilizando `JavaScript`, `React` e `Node.js`.
-* **Dev Environment:** Domínio de ambientes `Linux` para gerenciamento de servidores e deploy de aplicações.
-
----
+![Pawn](https://img.shields.io/badge/Pawn-FFFFFF?style=for-the-badge&logo=gamemaker&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=black)
+![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 
 ### 📈 Stats & Activity
 
