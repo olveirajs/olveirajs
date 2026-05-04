@@ -1,7 +1,6 @@
 # Cauã Vinícius | Software Engineer
 
-![Banner](<img width="2172" height="724" alt="bannerolver" src="https://github.com/user-attachments/assets/54be4706-87df-4689-a1c6-28d618c6e808" />
-)
+![Banner](https://media.discordapp.net/attachments/1500872518372823122/1500915282460414142/bannerolver.png?ex=69fa2bc8&is=69f8da48&hm=1f2de37bd078ce002d35b892085102210f7470ef657979851fad4cf6218cbbbe&=&format=webp&quality=lossless&width=1540&height=514)
 
 ## 🇧🇷 Sobre Mim
 Minha trajetória na tecnologia começou cedo: aos **11 anos** já explorava a lógica por trás de sistemas e jogos. O que nasceu como curiosidade se tornou uma carreira focada em construir arquiteturas sólidas e eficientes.
