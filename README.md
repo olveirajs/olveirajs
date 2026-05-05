@@ -10,27 +10,26 @@
 
 <br/>
 
-Tudo começou aos 11 anos, "quebrando" e reconstruindo scripts de jogos para entender como as coisas funcionavam por baixo do capô. Essa curiosidade virou profissão. 
+Comecei a programar aos 11 anos modificando scripts de jogos para entender como a lógica funcionava na prática. Essa curiosidade me deu uma base forte em performance e estrutura de dados.
 
-Hoje, transito entre a precisão do baixo nível (C++/Pawn) e a versatilidade do ecossistema Web. Meu foco é simples: escrever código que performa bem, resolve o problema e não dá dor de cabeça para manter. Se tem lógica envolvida, eu topo o desafio.
+Hoje, divido meu tempo entre o desenvolvimento de baixo nível (C++ e Pawn) e o ecossistema Web moderno. Meu objetivo é simples: escrever códigos eficientes, fáceis de manter e que resolvam problemas reais.
 
 <br/>
 
-### 🛠️ No meu cinto de utilidades
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,lua,js,html,css,mysql,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,lua,js,html,css,mysql,git,vscode,github,linux" />
 </p>
 
-### 🎯 No que estou focado agora
+### 🎯 Projetos e Foco Atual
 
-Atualmente, estou mergulhado no ecossistema **Java + Spring**. O objetivo é dominar a construção de back-ends robustos e APIs que aguentem o tranco, aplicando o que já sei de performance em sistemas de larga escala.
+No momento, estou aprofundando meus conhecimentos em **Java e Spring Boot** para o desenvolvimento de sistemas back-end mais estruturados.
 
-**Onde estou colocando a mão na massa:**
-* 🎮 **[LostWay Studios](https://discord.gg/KKh7Xfg3sH)** — Criando soluções e scripts para comunidades de jogos.
-* 🤖 **[OlverAI](http://olverai.online/)** — Explorando o futuro da web e integração de sistemas inteligentes.
+* 🎮 **[LostWay Studios](https://discord.gg/KKh7Xfg3sH)** — Desenvolvimento de scripts e soluções para comunidades de jogos.
+* 🤖 **[OlverAI](http://olverai.online/)** — Projeto focado em integração de sistemas e web.
 
-### 📈 Minha atividade no GitHub
+### 📊 Atividade no GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olveirajs&theme=github_dark" />
@@ -50,11 +49,11 @@ Atualmente, estou mergulhado no ecossistema **Java + Spring**. O objetivo é dom
 
 <br/>
 
-### 👋 Vamos trocar uma ideia?
+### 📩 Contatos
 
 <p align="left">
-  <a href="mailto:oliveirarsdemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://discord.com/users/.olveirajs"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="mailto:oliveirarsdemail@gmail.com" title="E-mail profissional"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://discord.com/users/.olveirajs" title="Meu Discord"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 <br/>
