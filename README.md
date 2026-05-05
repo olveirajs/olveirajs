@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f1f1f&height=140&section=header&text=Cauã%20Oliveira&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Software%20Developer&descSize=16&descAlignY=80&descColor=888888" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:cccccc&height=140&section=header&text=Cauã%20Oliveira&fontSize=42&fontColor=000000&fontAlignY=55&desc=Software%20Developer&descSize=16&descAlignY=80&descColor=444444" />
 </div>
 
 <br/>
@@ -24,13 +24,16 @@ Desenvolvedor apaixonado por tecnologia desde os 11 anos. Minha trajetória come
 
 ---
 
-### Em Evolução
+### Atualmente
 
-| | |
+Cursando especialização em **Java** com foco no ecossistema Spring e Backend robusto.
+
+**Projetos em andamento:**
+
+| Projeto | |
 |---|---|
-| ☕ **Java** | Especialização em Spring e Backend robusto |
-| 🌐 **Full Stack** | Arquitetura de APIs e integração de dados |
-| ⚙️ **C++** | Otimização de sistemas e performance |
+| 🤖 **OlverAI** | [olverai.online](http://olverai.online/) |
+| 🏪 **LostWay** | [discord.gg/KKh7Xfg3sH](https://discord.gg/KKh7Xfg3sH) |
 
 ---
 
@@ -57,5 +60,5 @@ Desenvolvedor apaixonado por tecnologia desde os 11 anos. Minha trajetória come
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:0d1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cccccc,100:ffffff&height=100&section=footer" />
 </div>
