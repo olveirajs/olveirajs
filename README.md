@@ -31,8 +31,11 @@ Atualmente, estou focado em expandir meu repertório técnico e acadêmico:
 ### 📈 Estatísticas & Atividade
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=olveirajs&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_border=true" />
+  <img height="175em" src="https://streak-stats.demolab.com?user=olveirajs&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+</p>
+
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_border=true" />
 </p>
 
 ---
