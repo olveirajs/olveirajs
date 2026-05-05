@@ -26,17 +26,12 @@ Atualmente, estou focado em expandir meu repertório técnico e acadêmico:
 * 🌐 **Full Stack:** Aprimorando conhecimentos em arquitetura de APIs e integração de dados.
 * ⚙️ **Performance:** Explorando otimização de sistemas em C++.
 
----
-
 <p align="center">
-  <img src="https://github-contribution-grid-snake.herokuapp.com/api?username=olveirajs" />
+  <img src="https://img.shields.io/badge/Pawn-100%25-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Systems-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Java-Spring-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/JavaScript-Web-yellow?style=for-the-badge&logo=javascript" />
 </p>
-
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_border=true" />
-</p>
-
----
 
 ### 📫 Contato & Networking
 
