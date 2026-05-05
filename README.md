@@ -30,10 +30,15 @@ Cursando especialização em **Java** com foco no ecossistema Spring e Backend r
 
 **Projetos em andamento:**
 
-| Projeto | |
-|---|---|
-| 🤖 **OlverAI** | [olverai.online](http://olverai.online/) |
-| 🏪 **LostWay** | [discord.gg/KKh7Xfg3sH](https://discord.gg/KKh7Xfg3sH) |
+<p align="left">
+  <a href="http://olverai.online/">
+    <img src="https://img.shields.io/badge/🤖%20OlverAI-olverai.online-0d1117?style=for-the-badge&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/KKh7Xfg3sH">
+    <img src="https://img.shields.io/badge/🏪%20LostWay-Empresa%20%2F%20Loja-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
