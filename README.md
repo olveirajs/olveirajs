@@ -28,10 +28,8 @@ Atualmente, estou focado em expandir meu repertório técnico e acadêmico:
 
 ---
 
-### 📈 Estatísticas & Atividade
-
 <p align="center">
-  <img height="175em" src="https://streak-stats.demolab.com?user=olveirajs&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-contribution-grid-snake.herokuapp.com/api?username=olveirajs" />
 </p>
 
 <p align="center">
