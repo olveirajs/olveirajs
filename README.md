@@ -32,3 +32,17 @@ Minha paixão pela tecnologia começou cedo, aos 11 anos, explorando a lógica p
   <br>
   <i>"A simplicidade é o último grau de sofisticação."</i>
 </div>
+
+
+<img src="https://img.shields.io/badge/Pawn-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,lua,js,html,mysql,github,discord,gmail" />
+  </a>
+</p>
+
+<img src="https://img.shields.io/badge/Pawn-222?style=plastic&logo=gamemaker" />
+<img src="https://img.shields.io/badge/Lua-222?style=flat-square&logo=lua" />
