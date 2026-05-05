@@ -37,12 +37,7 @@ Como desenvolvedor, foco em unir a precisão da lógica de baixo nível (Pawn/C+
 *Estou sempre aberto a novos projetos, parcerias ou apenas um bom papo sobre tecnologia:*
 
 <p align="left">
-  <a href="mailto:oliveirarsdemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://discord.com/users/.olveirajs">
-    <img src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" />
-  </a>
+  <a href="mailto:oliveirarsdemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a><a href="https://discord.com/users/.olveirajs"><img src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" /></a>
 </p>
 
 ![Onda Branca](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer)
