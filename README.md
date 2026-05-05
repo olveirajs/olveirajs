@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header&text=Olver&fontSize=50&fontColor=000000" />
 </div>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,lua,js,html,mysql,github" />
+  </a>
+</p>
 # Olá, eu sou o Cauã Oliveira! 👋
 
 Minha paixão pela tecnologia começou cedo, aos 11 anos, explorando a lógica por trás de sistemas e jogos. O que começou como curiosidade se transformou em uma carreira dedicada a construir arquiteturas sólidas, eficientes e de alta performance.<br>Como desenvolvedor, foco em unir a precisão da lógica de baixo nível (Pawn/C++) à agilidade do ecossistema Web moderno. Meu compromisso é resolver problemas complexos através de código limpo e soluções escaláveis.
