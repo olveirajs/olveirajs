@@ -44,7 +44,7 @@ Atualmente, estou mergulhado no ecossistema **Java + Spring**. O objetivo é dom
 <br/>
 
 <div align="center">
-  <h3><i>"Talk is cheap. Show me the code."</i></h3>
+  <h3><i>"Falar é fácil. Mostre-me o código."</i></h3>
   <p>— Linus Torvalds</p>
 </div>
 
