@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header&text=Olver&fontSize=50&fontColor=000000" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+Pawn+%2F+C%2B%2B;Apaixonado+por+tecnologia" alt="Typing SVG" />
 </div>
 
 # Olá, eu sou o Cauã Oliveira! 👋
@@ -14,6 +16,8 @@ Minha paixão pela tecnologia começou cedo, aos 11 anos, explorando a lógica p
   </a>
 </p>
 
+---
+
 ### 📈 Estatísticas & Atividade
 
 <p align="left">
@@ -21,18 +25,16 @@ Minha paixão pela tecnologia começou cedo, aos 11 anos, explorando a lógica p
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_border=true" />
 </p>
 
+---
+
 ### 📫 Contato & Networking
 
 *Estou sempre aberto a novos projetos, parcerias ou apenas um bom papo sobre tecnologia:*
 
 <p align="left">
-  <a href="mailto:oliveirarsdemail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://discord.com/users/.olveirajs">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
+  <a href="mailto:oliveirarsdemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a><a href="https://discord.com/users/.olveirajs"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer" />
   <br>
