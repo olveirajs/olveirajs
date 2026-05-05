@@ -8,7 +8,7 @@
 
 Minha paixão pela tecnologia começou cedo, aos 11 anos, explorando a lógica por trás de sistemas e jogos. O que começou como curiosidade se transformou em uma carreira dedicada a construir arquiteturas sólidas, eficientes e de alta performance.<br>Como desenvolvedor, foco em unir a precisão da lógica de baixo nível (Pawn/C++) à agilidade do ecossistema Web moderno. Meu compromisso é resolver problemas complexos através de código limpo e soluções escaláveis.
 
-### 🚀 Stack Tecnológica
+### 1. Stack Tecnológica
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -16,14 +16,14 @@ Minha paixão pela tecnologia começou cedo, aos 11 anos, explorando a lógica p
   </a>
 </p>
 
-### 📈 Estatísticas & Atividade
+### 2. Estatísticas & Atividade
 
 <p align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=olveirajs&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_border=true" />
 </p>
 
-### 📫 Contato & Networking
+### 3. Contato & Networking
 
 *Estou sempre aberto a novos projetos, parcerias ou apenas um bom papo sobre tecnologia:*
 
