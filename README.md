@@ -21,6 +21,7 @@ Desenvolvedor apaixonado por tecnologia desde os 11 anos. Minha trajetória come
 ### 📚 Em Evolução (Learning Path)
 
 Atualmente, estou focado em expandir meu repertório técnico e acadêmico:
+
 * ☕ **Java:** Cursando especialização para dominar o ecossistema Spring e Backend robusto.
 * 🌐 **Full Stack:** Aprimorando conhecimentos em arquitetura de APIs e integração de dados.
 * ⚙️ **Performance:** Explorando otimização de sistemas em C++.
@@ -29,9 +30,9 @@ Atualmente, estou focado em expandir meu repertório técnico e acadêmico:
 
 ### 📈 Estatísticas & Atividade
 
-<p align="left">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=olveirajs&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_border=true" />
+<p align="center">
+  <img height="175em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=olveirajs&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_border=true" />
 </p>
 
 ---
