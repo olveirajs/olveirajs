@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:cccccc&height=140&section=header&text=Cauã%20Oliveira&fontSize=42&fontColor=000000&fontAlignY=55&desc=Software%20Developer&descSize=16&descAlignY=80&descColor=444444" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:cccccc&height=200&section=header&text=Cauã%20Oliveira&fontSize=50&fontColor=000000&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&descColor=444444" />
 </div>
 
 <br/>
@@ -10,25 +10,27 @@
 
 <br/>
 
-Comecei a programar aos 11 anos criando modificações para jogos. Foi ali que aprendi na prática como lidar com lógica e performance. Hoje, meu trabalho é juntar a força das linguagens de baixo nível (como C++) com a agilidade do ecossistema Web moderno. Gosto de resolver problemas reais escrevendo um código limpo e direto ao ponto.
+Tudo começou aos 11 anos, "quebrando" e reconstruindo scripts de jogos para entender como as coisas funcionavam por baixo do capô. Essa curiosidade virou profissão. 
+
+Hoje, transito entre a precisão do baixo nível (C++/Pawn) e a versatilidade do ecossistema Web. Meu foco é simples: escrever código que performa bem, resolve o problema e não dá dor de cabeça para manter. Se tem lógica envolvida, eu topo o desafio.
 
 <br/>
 
-### Stack
+### 🛠️ No meu cinto de utilidades
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,lua,js,html,css,mysql,github,vscode,linux" />
 </p>
 
-### Foco Atual
+### 🎯 No que estou focado agora
 
-No momento, estou dedicando meus estudos ao **Java**, mergulhando de cabeça no ecossistema Spring para focar na construção de back-ends e APIs bem estruturadas.
+Atualmente, estou mergulhado no ecossistema **Java + Spring**. O objetivo é dominar a construção de back-ends robustos e APIs que aguentem o tranco, aplicando o que já sei de performance em sistemas de larga escala.
 
-**Projetos em andamento:**
-* 🎮 **[LostWay Studios](https://discord.gg/KKh7Xfg3sH)**
-* 🤖 **[OlverAI](http://olverai.online/)**
+**Onde estou colocando a mão na massa:**
+* 🎮 **[LostWay Studios](https://discord.gg/KKh7Xfg3sH)** — Criando soluções e scripts para comunidades de jogos.
+* 🤖 **[OlverAI](http://olverai.online/)** — Explorando o futuro da web e integração de sistemas inteligentes.
 
-### Atividade
+### 📈 Minha atividade no GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olveirajs&theme=github_dark" />
@@ -39,7 +41,16 @@ No momento, estou dedicando meus estudos ao **Java**, mergulhando de cabeça no 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olveirajs&theme=github_dark" />
 </p>
 
-### Contato
+<br/>
+
+<div align="center">
+  <h3><i>"Talk is cheap. Show me the code."</i></h3>
+  <p>— Linus Torvalds</p>
+</div>
+
+<br/>
+
+### 👋 Vamos trocar uma ideia?
 
 <p align="left">
   <a href="mailto:oliveirarsdemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
