@@ -12,14 +12,14 @@
 
 Comecei a programar aos 11 anos modificando scripts de jogos para entender como a lógica funcionava na prática. Essa curiosidade me deu uma base forte em performance e estrutura de dados.
 
-Hoje, divido meu tempo entre o desenvolvimento de baixo nível (C++ e Pawn) e o ecossistema Web moderno. Meu objetivo é simples: escrever códigos eficientes, fáceis de manter e que resolvam problemas reais.
+Hoje, divido meu tempo entre o desenvolvimento de baixo nível (C++ e Pawn) e o ecossistema Web moderno. Meu objetivo é escrever códigos eficientes, fáceis de manter e que resolvam problemas reais.
 
 <br/>
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,lua,js,html,css,mysql,git,vscode,github,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,lua,js,html,css,mysql,git,vscode,visualstudio,github,linux" />
 </p>
 
 ### 🎯 Projetos e Foco Atual
