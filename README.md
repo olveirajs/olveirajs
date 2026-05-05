@@ -14,15 +14,11 @@ Desenvolvedor apaixonado por tecnologia desde os 11 anos. Minha trajetória come
 
 <br/>
 
----
-
 ### Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,lua,js,html,css,mysql,github,vscode,linux" />
 </p>
-
----
 
 ### Atualmente
 
@@ -36,11 +32,9 @@ Cursando especialização em **Java** com foco no ecossistema Spring e Backend r
   </a>
   &nbsp;
   <a href="https://discord.gg/KKh7Xfg3sH">
-    <img src="https://img.shields.io/badge/🏪%20LostWay-Empresa%20%2F%20Loja-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/🏪%20LostWay5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
----
 
 ### Atividade
 
@@ -52,8 +46,6 @@ Cursando especialização em **Java** com foco no ecossistema Spring e Backend r
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olveirajs&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=olveirajs&theme=github_dark" />
 </p>
-
----
 
 ### Contato
 
