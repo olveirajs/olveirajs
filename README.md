@@ -14,16 +14,12 @@ Minha paixão pela tecnologia começou cedo, aos 11 anos, explorando a lógica p
   </a>
 </p>
 
----
-
 ### 📈 Estatísticas & Atividade
 
 <p align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=olveirajs&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olveirajs&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_border=true" />
 </p>
-
----
 
 ### 📫 Contato & Networking
 
@@ -37,7 +33,6 @@ Minha paixão pela tecnologia começou cedo, aos 11 anos, explorando a lógica p
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer" />
   <br>
